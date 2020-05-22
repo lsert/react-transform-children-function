@@ -1,0 +1,19 @@
+{
+  "name": "@babel/plugin-transform-react-children-function",
+  "version": "1.0.0",
+  "description": "Transform React Element Children to function children",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsert/react-transform-children-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsert/react-transform-children-function/issues"
+  },
+  "homepage": "https://github.com/lsert/react-transform-children-function#readme"
+}
