@@ -1,7 +1,11 @@
-# react-transform-children-function
+# babel-plugin-transform-react-children-function
 
 Transform React Element Children to function children, use as babel-plugin.
 
+### install
+```
+npm i --save-dev babel-plugin-transform-react-children-function
+```
 
 ### Example
 
