@@ -29,7 +29,7 @@ config
 {
   "plugins": [
       [
-        "@babel/plugin-transform-react-children-function",
+        "babel-plugin-transform-react-children-function",
         { tagName: "Observer" }
       ]
     ]
